@@ -1,0 +1,10 @@
+@book{Sch07,
+  author = {Ansgar Scherp},
+  title = {A Component Framework for Personalized Multimedia Applications},
+  school = {Carl von Ossietzky University of Oldenburg, School of Computing Science, Business Administration, Economics and Law, Department of Computing Science},
+  year = {2007},
+  month = feb,
+  publisher = {OlWIR, Oldenburg, Germany},
+  note = {PhD Thesis},
+  isbn = {978-3-939704-11-9},
+}
